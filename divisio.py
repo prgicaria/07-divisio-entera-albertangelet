@@ -5,9 +5,9 @@ if divisor == 0:
 else:
     divisio = dividend/divisor
     quocient = dividend//divisor
-    residu = dividend % divisor
+    residu = dividend%divisor
 
     # Mostrar els resultats
-    print(f"Divisió: {divisio}")
+    print(f"Divisió: {dividend}/{divisor}")
     print(f"Quocient: {quocient}")
     print(f"Residu: {residu}")
